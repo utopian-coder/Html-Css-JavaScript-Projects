@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <header class="header">
+      <h1>freeCodeCamp Survey Form</h1>
+      <p>Thank you for taking the time to help us improve the platform</p>
+    </header>
+    <main class="survey-form">
+      <form>
+        <fieldset class="basic-info">
+          <label for="person">Name</label>
+          <input type="text" class="person" placeholder="Enter your name" />
+          <label for="email-id">Email</label>
+          <input type="email" class="email-id" placeholder="Enter your Email" />
+          <label for="age">Age(Optional)</label>
+          <input
+            type="number"
+            class="age"
+            placeholder="Age"
+            min="12"
+            max="120"
+          />
+        </fieldset>
+        <fieldset class="questions">
+          <label for="job-role"
+            >Which option best describes your current role?</label
+          >
+          <select name="job-role" id="job-role">
+            <option value="">Select current role</option>
+            <option value="1">Student</option>
+            <option value="2">Full time job</option>
+            <option value="3">Full time learner</option>
+            <option value="4">Prefer not to say</option>
+            <option value="5">Other</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <p>Would you recommend freeCodeCamp to a friend?</p>
+          <label for="recommendation-1"
+            ><input
+              type="radio"
+              name="recommendation"
+              class="recommendation-1"
+            />
+            Definitely</label
+          >
+          <label for="recommendation-2"
+            ><input
+              type="radio"
+              name="recommendation"
+              class="recommendation-2"
+            />
+            Maybe</label
+          >
+          <label for="recommendation-3"
+            ><input
+              type="radio"
+              name="recommendation"
+              class="recommendation-3"
+            />
+            Not Sure</label
+          >
+        </fieldset>
+        <fieldset class="suggestion">
+          <p>What would you like to see improved? (Check all that apply)</p>
+          <label for="suggestion-0"
+            ><input type="checkbox" name="suggestion" id="suggestion-0" />
+            Front-end Projects</label
+          >
+          <label for="suggestion-1"
+            ><input type="checkbox" name="suggestion" id="suggestion-1" />
+            Back-end Projects</label
+          >
+          <label for="suggestion-2"
+            ><input type="checkbox" name="suggestion" id="suggestion-2" /> Data
+            Visualization</label
+          >
+          <label for="suggestion-3"
+            ><input type="checkbox" name="suggestion" id="suggestion-3" />
+            Challenges</label
+          >
+          <label for="suggestion-4"
+            ><input type="checkbox" name="suggestion" id="suggestion-4" /> Open
+            Source Community</label
+          >
+          <label for="suggestion-5"
+            ><input type="checkbox" name="suggestion" id="suggestion-5" />
+            Gitter help rooms</label
+          >
+          <label for="suggestion-6"
+            ><input type="checkbox" name="suggestion" id="suggestion-6" />
+            Videos</label
+          >
+          <label for="suggestion-7"
+            ><input type="checkbox" name="suggestion" id="suggestion-7" /> City
+            Meetups</label
+          >
+          <label for="suggestion-8"
+            ><input type="checkbox" name="suggestion" id="suggestion-8" />
+            Wiki</label
+          >
+          <label for="suggestion-9"
+            ><input type="checkbox" name="suggestion" id="suggestion-9" />
+            Forum</label
+          >
+          <label for="suggestion-10"
+            ><input type="checkbox" name="suggestion" id="suggestion-10" />
+            Additional Courses</label
+          >
+        </fieldset>
+        <fieldset class="comments">
+          <p>Any comments or suggestions?</p>
+          <textarea
+            placeholder="Enter your comment here..."
+            cols="30"
+            rows="7"
+          ></textarea>
+        </fieldset>
+        <input type="submit" value="Submit" />
+      </form>
+    </main>
+  </body>
+</html>

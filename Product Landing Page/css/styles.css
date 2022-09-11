@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: "Lato", sans-serif;
+}
+
+.btn {
+  height: 2em;
+  width: 10em;
+  background-color: hsl(50, 100%, 60%);
+  border-color: hsl(50, 100%, 60%);
+  border-radius: 0.25em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: hsl(50, 100%, 49%);
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 125px;
+  width: 80vw;
+  padding: 5px;
+}
+
+.grid {
+  display: flex;
+}
+
+#header {
+  align-items: center;
+  background-color: hsl(0, 15%, 95%);
+  display: flex;
+  justify-content: space-around;
+  left: 0;
+  max-height: 6em;
+  position: fixed;
+  padding: 1em 0.5em;
+  top: 0;
+  width: 100%;
+}
+
+#How_It_Works {
+  text-align: center;
+}
+
+#hero {
+  text-align: center;
+}
+
+#hero h2,
+input {
+  margin-bottom: 16px;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 20vw;
+  color: darkorange;
+}
+
+img {
+  cursor: pointer;
+  max-height: 2em;
+}
+
+input {
+  border: 1px solid;
+  border-radius: 0.25em;
+  min-height: 2.1em;
+  width: 21em;
+  text-align: center;
+}
+
+#main-content {
+  position: absolute;
+  top: 7em;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+#nav-bar li {
+  display: inline-block;
+  padding: 0 3em;
+}
+
+#nav-bar a {
+  cursor: pointer;
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+}
+
+#nav-bar a:hover {
+  color: hsl(0, 0%, 10%);
+  font-size: 1.1rem;
+}
+
+section {
+  margin: 1em 0 3em 0;
+}
+
+@media (max-width: 400px) {
+  input {
+    min-width: 13em;
+  }
+}

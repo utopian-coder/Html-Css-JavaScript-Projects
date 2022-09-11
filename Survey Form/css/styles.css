@@ -1,0 +1,89 @@
+body {
+  background-image: url(https://completeprojectresource.com/wp-content/uploads/2018/03/contact-us-form-background-1024x726.jpg);
+  color: white;
+  font-size: 1.125rem;
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  margin: 0;
+  width: 100%;
+}
+
+fieldset {
+  border: none;
+  margin: 1em 0 0 0;
+  padding: 1em 1em;
+  text-align: left;
+}
+
+header {
+  margin: 1em auto;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 400;
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+.header p {
+  font-weight: 100;
+  font-style: italic;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+input,
+select {
+  border-radius: 0.25rem;
+  height: 2.2rem;
+}
+
+input,
+select,
+textarea {
+  font-size: 1rem;
+  margin: 0.5em 0;
+  padding: 0 0.5rem;
+  width: 100%;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 0.5em;
+  max-height: 1.125rem;
+  transform: scale(1.8);
+  vertical-align: middle;
+  width: unset;
+}
+
+input[type="submit"] {
+  background-color: #1fa452;
+  border: none;
+  color: white;
+  height: 3rem;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+label {
+  display: block;
+  height: 1.125rem;
+  margin: 0.5em 0 0 0;
+}
+
+p {
+  margin: 0;
+}
+
+.survey-form {
+  background-color: #100720;
+  border-radius: 0.25rem;
+  font-weight: 400;
+  margin: 2em auto;
+  min-width: 300px;
+  max-width: 800px;
+  padding: 20px;
+  text-align: center;
+  width: 45%;
+}
