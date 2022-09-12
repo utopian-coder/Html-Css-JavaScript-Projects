@@ -1,0 +1,32 @@
+div{
+  background-color: #ff471a;
+  margin:0;
+  border: 0;
+}
+
+.btn-outline-light {
+  position: absolute;
+  top: 450px;
+  left: 220px;
+}
+
+.btn-dark{
+  position: absolute;
+  top: 450px;
+  left: 60px;
+}
+
+h1{
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+ body{
+   margin: 0px;
+   padding-top: 0;
+   padding-bottom: 0;
+ }
+.navbar {
+  padding:0 0 0 0;
+
+
+}
