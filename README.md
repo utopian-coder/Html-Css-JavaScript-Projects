@@ -1,4 +1,4 @@
-## HTML CSS PROJECTS
+## 🖥️ Html Css Projects
 
 This respository contains most of my Html, Css projects that I've made for practicing.  
 In some projects Bootstrap has been used.  
@@ -8,7 +8,7 @@ Means frequently updated and maintained.
 Check out all the projects from below list and let me know which of them you did like!
 
 
-## RATING EMOJIS
+## 👀 Rating Emojis
 
 | Emoji  | Description |
 | ------------- | ------------- |
@@ -16,7 +16,7 @@ Check out all the projects from below list and let me know which of them you did
 | 💁  | Would place these in goog projects catagory.  |
 | 🧑‍💻  | Working on it  |
 
-## PROJECT LIST
+## 📃 Project List
 | Title  | Live Link | Watch Demo On YouTube  | Rating |
 | ------------- | ------------- | ------------- | ------------- |
 | Personal Site  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Personal%20Site) |   | 🌟 |
