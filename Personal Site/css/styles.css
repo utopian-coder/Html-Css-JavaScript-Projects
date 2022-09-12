@@ -1,0 +1,144 @@
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 50px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 42px;
+  line-height: 42px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  width: 165px;
+  font-size: 17px;
+  font-weight: 500;
+  padding: 0;
+  background-color: #11999E;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  color: #66BFBF;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  margin: 100px auto 80px auto;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.code-img {
+  width: 25%;
+  margin-right: 35px;
+  float: left;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.heading-under-h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #66BFBF;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #EAF6F6;
+  width: 4%;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+  font-weight: bold;
+}
+
+p {
+  color: #40514E;
+}
+
+.profile-img {
+  margin-bottom: 15px;
+}
+
+.skills {
+  margin: 100px auto 0 auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 180px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.thinking-img {
+  float: right;
+  margin-left: 35px;
+  width: 25%;
+}
