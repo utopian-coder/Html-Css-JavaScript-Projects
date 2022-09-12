@@ -47,6 +47,7 @@ body {
   padding: 1em 0.5em;
   top: 0;
   width: 100%;
+  z-index: 20;
 }
 
 #How_It_Works {
@@ -85,7 +86,8 @@ input {
 }
 
 #main-content {
-  position: absolute;
+  z-index: 10;
+  position: relative;
   top: 7em;
   left: 0;
   right: 0;
