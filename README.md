@@ -21,7 +21,7 @@ Check out all the projects from below list and let me know which of them you did
 | ------------- | ------------- | ------------- | ------------- |
 | Personal Site  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Personal%20Site) |   | 🌟 |
 | Dream Catcher  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Dream%20Catcher) |   | 💁 |
-| Tindog  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Tindog) |   | 🌟 |
+| Tindog  | [View Demo](https://utopian-coder.github.io/Tindog/) |   | 🌟 |
 | Tribute Page  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Tribute%20Page) |   | 💁 |
 | Survey Form  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Survey%20Form) |   | 💁 |
 | Technical Documentation Page  | [View Demo](https://utopian-coder.github.io/Html-Css-Projects/Technical%20Documentation%20Page) |   | 💁 |
