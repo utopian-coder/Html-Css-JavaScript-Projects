@@ -23,6 +23,12 @@ body {
   background-color: hsl(50, 100%, 49%);
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 .desc {
   display: flex;
   flex-direction: column;
@@ -30,6 +36,26 @@ body {
   height: 125px;
   width: 80vw;
   padding: 5px;
+}
+
+.footer {
+  font-size: 0.9rem;
+  padding-top: 1em;
+  text-align: center;
+  margin-top: 5em;
+  min-height: 5em;
+  background-color: rgb(229, 228, 228);
+}
+
+.footer a {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+  margin: 0 0.8em;
+}
+
+.footer p {
+  margin: 1em 0 1.2em 0;
 }
 
 .grid {
@@ -111,6 +137,27 @@ input {
 #nav-bar a:hover {
   color: hsl(0, 0%, 10%);
   font-size: 1.1rem;
+}
+
+.pricing-card {
+  text-align: center;
+  height: 19em;
+  width: 18em;
+  background-color: #eee;
+  border: 1px solid;
+}
+
+.pricing-card p {
+  margin-top: 1em;
+}
+
+.pricing-btn {
+  margin-top: 15%;
+}
+
+.pricing-card h4 {
+  background-color: rgb(214, 213, 213);
+  padding: 1em;
 }
 
 section {
