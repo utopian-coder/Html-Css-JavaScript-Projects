@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  padding-top: 10vh;
+}
+
+header {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header {
+  background-color: #be3144;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 10vh;
+}
+
+.nav__links li {
+  display: inline-block;
+  padding: 0 4em;
+}
+
+#project {
+  background-color: #45567d;
+}
+
+section,
+footer {
+  min-height: 100vh;
+}
+
+#welcome-section,
+#footer-section {
+  background-color: #000;
+  background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
