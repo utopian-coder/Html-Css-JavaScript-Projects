@@ -1,15 +1,36 @@
 * {
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 a {
   text-decoration: none;
-  color: white;
 }
 
 body {
   padding-top: 10vh;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4em;
+  place-items: center;
+}
+
+@media screen and (max-width: 450px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+}
+
+.grid-item {
+  height: 190px;
+  width: 190px;
+  background-color: wheat;
 }
 
 header {
@@ -32,8 +53,13 @@ header {
   padding: 0 4em;
 }
 
-#project {
+#projects {
   background-color: #45567d;
+}
+
+.project-img {
+  height: 300px;
+  width: 300px;
 }
 
 section,
