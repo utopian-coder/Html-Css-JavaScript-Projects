@@ -13,7 +13,7 @@ Check out all the projects from below list and let me know which of them you did
 | Emoji  | Description |
 | ------------- | ------------- |
 | 🌟  | These are my personal favourite projects of this repo!  |
-| 💁  | Would place these in goog projects catagory.  |
+| 💁  | Would place these in good projects catagory.  |
 | 🧑‍💻  | Working on it  |
 
 ## 📃 Project List
