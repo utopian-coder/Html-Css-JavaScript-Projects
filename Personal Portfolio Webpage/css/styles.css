@@ -31,9 +31,9 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 300px 300px 300px;
   gap: 4em;
-  place-items: center;
+  align-items: center;
 }
 
 h1 {
