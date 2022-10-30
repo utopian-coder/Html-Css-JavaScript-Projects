@@ -1,6 +1,6 @@
 ## 🖥️ Html Css Projects
 
-This respository contains most of my Html, Css projects that I've made for practicing.  
+This respository contains most of my Html, Css and JavaScript projects that I've made for practicing.  
 In some projects Bootstrap has been used.
 
 It's a **LIVE** repository!  
@@ -15,7 +15,16 @@ Check out all the projects from below list and let me know which of them you did
 | 💁    | Would place these in good projects catagory.           |
 | 🧑‍💻    | Working on it                                          |
 
-## 📃 Project List
+## 📃 JavaScript Project List
+
+| Title           | Live Link                                                                                                            | Watch Demo On YouTube | Rating |
+| --------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ |
+| Bankist         | [View Demo](https://github.com/utopian-coder/Bankist)                                                                |                       | 🌟     |
+| Pig Game        | [View Demo](https://utopian-coder.github.io/Html-Css-JavaScript-Projects/JavaScript%20Projects/Pig%20Game/)          |                       | 🌟     |
+| Guess My Number | [View Demo](https://utopian-coder.github.io/Html-Css-JavaScript-Projects/JavaScript%20Projects/Guess%20my%20number/) |                       | 💁     |
+| Modal Window    | [View Demo](https://utopian-coder.github.io/Html-Css-JavaScript-Projects/JavaScript%20Projects/Modal%20Window/)      |                       | 💁     |
+
+## 📃 Html Css Project List
 
 | Title                        | Live Link                                                                                                                        | Watch Demo On YouTube | Rating |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ |
