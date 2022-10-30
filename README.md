@@ -1,4 +1,4 @@
-## 🖥️ Html Css Projects
+## 🖥️ Html Css and JavaScript Projects
 
 This respository contains most of my Html, Css and JavaScript projects that I've made for practicing.  
 In some projects Bootstrap has been used.
@@ -15,7 +15,7 @@ Check out all the projects from below list and let me know which of them you did
 | 💁    | Would place these in good projects catagory.           |
 | 🧑‍💻    | Working on it                                          |
 
-## 📃 JavaScript Project List
+## ⏹️ JavaScript Project List
 
 | Title           | Live Link                                                                                                            | Watch Demo On YouTube | Rating |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ |
